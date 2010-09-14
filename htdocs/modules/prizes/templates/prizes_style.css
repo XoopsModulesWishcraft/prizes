@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+
+#div_details {
+	font-size: 11px;
+	font-family: Franklin Gothic Book, Calibri, Bodoni MT, Arial Unicode MS, Verdana, Arial, Helvetica, sans-serif;
+	font-weight: 200;
+	color: #333399;
+	text-align: left;
+}
+
+#div_details.a {
+	color: #336666;
+}
+
+#div_display_image {
+	text-align:  center;
+}
+
+#div_pagenav_left {
+	float: left;
+	clear: both;
+}
+
+#div_pagenav_right {
+	float: right;
+	clear: both;
+}
+
+#div_form {
+	width: 100%;
+	clear: both;
+	text-align: left;
+}

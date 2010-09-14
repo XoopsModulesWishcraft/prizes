@@ -1,0 +1,6 @@
+<p><{$prizes_intro}></p>
+
+<{foreach item=prizes from=$prizess}>
+<h4><a href="index.php?id=<{$prizes.id}>"><{$prizes.title}></a></h4>
+<p><{$prizes.desc}></p>
+<{/foreach}>
