@@ -1,5 +1,5 @@
 <?php
-// $Id: menu.php,v 1.02 2009/06/23 17:30:00 wishcraft Exp $
+// $Id$
 global $adminmenu;
 $adminmenu = array();
 $adminmenu[0]['title'] = _MI_PRIZES_ADMENU1;

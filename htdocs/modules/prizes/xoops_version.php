@@ -1,5 +1,5 @@
 <?php
-// $Id: xoops_version.php,v 1.02 2009/06/23 17:30:00 wishcraft Exp $
+// $Id$
 
 
 $modversion['name'] = _MI_PRIZES_NAME;

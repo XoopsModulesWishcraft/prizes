@@ -1,5 +1,5 @@
 <?php
-// $Id: ele_uploadimg.php,v 1.02 2009/06/23 17:30:00 wishcraft Exp $
+// $Id$
 
 
 if( !preg_match("/editelement.php/", $_SERVER['PHP_SELF']) ){

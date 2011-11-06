@@ -1,5 +1,5 @@
 <?php
-// $Id: main.php,v 1.02 2009/06/23 17:30:00 wishcraft Exp $
+// $Id$
 define("_PRIZES_MSG_SUBJECT", '%s');	// Site name removed since verion 1.22
 define("_PRIZES_MSG_SENT", "Your message has been sent.<br />Thank you for your comments.");
 

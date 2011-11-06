@@ -1,5 +1,5 @@
 <?php
-// $Id: functions.php,v 1.3 2009/06/23 17:30:00 wishcraft Exp $
+// $Id$
 
 
 if( preg_match('/functions.php/', $_SERVER['PHP_SELF']) ){

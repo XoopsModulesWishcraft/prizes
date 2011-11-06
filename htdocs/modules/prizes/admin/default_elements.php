@@ -1,5 +1,5 @@
 <?php
-// $Id: default_elements.php,v 1.02 2009/06/23 17:30:00 wishcraft Exp $
+// $Id$
 
 
 if( preg_match('/default_elements.php/', $_SERVER['PHP_SELF']) ){

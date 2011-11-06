@@ -1,5 +1,5 @@
 <?php
-// $Id: admin.php,v 1.02 2009/06/23 17:30:00 wishcraft Exp $
+// $Id$
 
 define("_AM_PRIZES_PAGES", "Pages");
 define("_AM_PRIZES_CATEGORY", "Categories");

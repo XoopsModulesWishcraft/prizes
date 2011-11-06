@@ -1,5 +1,5 @@
 <?php
-// $Id: modinfo.php,v 1.02 2009/06/23 17:30:00 wishcraft Exp $
+// $Id$
 
 // The name of this module
 define("_MI_PRIZES_NAME","Prizes");

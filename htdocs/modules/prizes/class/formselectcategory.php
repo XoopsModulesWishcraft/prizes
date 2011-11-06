@@ -20,7 +20,7 @@
  * @author          Kazumi Ono <onokazu@xoops.org>
  * @author          Taiwen Jiang <phppp@users.sourceforge.net>
  * @author          John Neill <catzwolf@xoops.org>
- * @version         $Id: formselect.php 3174 2009-04-18 15:00:48Z catzwolf $
+ * @version         $Id$
  */
 defined('XOOPS_ROOT_PATH') or die('Restricted access');
 

@@ -1,5 +1,5 @@
 <?php
-// $Id: admin_header.php,v 1.02 2009/06/23 17:30:00 wishcraft Exp $
+// $Id$
 
 
 include '../../../include/cp_header.php';

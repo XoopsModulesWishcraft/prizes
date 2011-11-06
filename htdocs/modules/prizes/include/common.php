@@ -1,5 +1,5 @@
 <?php
-// $Id: common.php,v 1.02 2009/06/23 17:30:00 wishcraft Exp $
+// $Id$
 include('functions.php');
 
 $module_handler = xoops_gethandler('module');
