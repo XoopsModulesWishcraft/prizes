@@ -1,24 +1,24 @@
 <?php
 // $Id$
 
-define("_AM_PRIZES_PAGES", "Pages");
-define("_AM_PRIZES_CATEGORY", "Categories");
-define("_AM_PRIZES_FORMS", "Forms");
-define("_AM_PERM_ACTION", "Select the permission type to set");
-define("_AM_PRIZES_PAGES_PERMHEADER", "Set Pages Permissions");
-define("_AM_PRIZES_FORMS_PERMHEADER", "Set Forms Permissions");
-define("_AM_PRIZES_CATEGORY_PERMHEADER", "Set Categories Permissions");
+define("_AM_PRIZES_PAGES","Pages");
+define("_AM_PRIZES_CATEGORY","Categories");
+define("_AM_PRIZES_FORMS","Forms");
+define("_AM_PERM_ACTION","Select the permission type to set");
+define("_AM_PRIZES_PAGES_PERMHEADER","Set Pages Permissions");
+define("_AM_PRIZES_FORMS_PERMHEADER","Set Forms Permissions");
+define("_AM_PRIZES_CATEGORY_PERMHEADER","Set Categories Permissions");
 
-define("_AM_PRIZES_PAGES_PERMDESC", "Below you will find a series of checkboxes. Enable the checkboxs in the senerios when you want to be able to access the item and what group is permitted to access these items.");
-define("_AM_PRIZES_CATEGORY_PERMDESC", "Below you will find a series of checkboxes. Enable the checkboxs in the senerios when you want to be able to access the item and what group is permitted to access these items.");
-define("_AM_PRIZES_FORMS_PERMDESC", "Below you will find a series of checkboxes. Enable the checkboxs in the senerios when you want to be able to access the item and what group is permitted to access these items.");
+define("_AM_PRIZES_PAGES_PERMDESC","Below you will find a series of checkboxes. Enable the checkboxs in the senerios when you want to be able to access the item and what group is permitted to access these items.");
+define("_AM_PRIZES_CATEGORY_PERMDESC","Below you will find a series of checkboxes. Enable the checkboxs in the senerios when you want to be able to access the item and what group is permitted to access these items.");
+define("_AM_PRIZES_FORMS_PERMDESC","Below you will find a series of checkboxes. Enable the checkboxs in the senerios when you want to be able to access the item and what group is permitted to access these items.");
 
 define("_AM_CAT_TITLE","Name");
 define("_AM_CAT_DOMAIN","Personal Domain");
 define("_AM_CAT_DOMAINS","Associated Domains");
 
-define("_AM_PAGE_DEFAULT", "Default in category");
-define("_AM_PAGE_DESCRIPTION", "Page Description");
+define("_AM_PAGE_DEFAULT","Default in category");
+define("_AM_PAGE_DESCRIPTION","Page Description");
 define("_AM_PAGE_TITLE","Page Title");
 define("_AM_PAGE_WEIGHT","Page Weight");
 define("_AM_PAGE_CAT","Page Category");
@@ -66,50 +66,50 @@ define("_AM_ELE_CONFIRM_DELETE","Are you sure you want to delete this form eleme
 define("_AM_ELE_OTHER", 'For an option of "Other", put {OTHER|*number*} in one of the text boxes. e.g. {OTHER|30} generates a text box with 30 chars width.');
 
 ######### version 1.2 additions #########
-define("_AM_FORM_LISTING", "Contact Form Listing");
+define("_AM_FORM_LISTING","Contact Form Listing");
 define("_AM_FORM_ORDER","Display Order");
 define("_AM_FORM_ORDER_DESC","0 = hide this form");
-define("_AM_FORM_TITLE", "Form Title");
-define("_AM_FORM_PERM", "Groups allowed to use this form");
-define("_AM_FORM_SENDTO", "Send to");
-define("_AM_FORM_SENDTO_ADMIN", "Site Admin email");
-define("_AM_FORM_SEND_METHOD", "Send method");
-define("_AM_FORM_SEND_METHOD_DESC", "Information cannot be sent via private message when the form is sent to "._AM_FORM_SENDTO_ADMIN." or sent by anonymous users");
-define("_AM_FORM_SEND_METHOD_MAIL", "Email");
-define("_AM_FORM_SEND_METHOD_PM", "Private message");
-define("_AM_FORM_DELIMETER", "Delimeter for check boxes and radio buttons");
-define("_AM_FORM_DELIMETER_SPACE", "White space");
-define("_AM_FORM_DELIMETER_BR", "Line break");
-define("_AM_FORM_SUBMIT_TEXT", "Text for submit button");
-define("_AM_FORM_DESC", "Form description");
-define("_AM_FORM_DESC_DESC", "Text to be displayed in the main page if more then one form is listed");
-define("_AM_FORM_INTRO", "Form introduction");
-define("_AM_FORM_INTRO_DESC", "Text to be displayed in form page itself");
-define("_AM_FORM_WHERETO", "URL to go after the form is submitted");
-define("_AM_FORM_WHERETO_DESC", "Leave blank for the home page of this site; {SITE_URL} will print ".XOOPS_URL);
+define("_AM_FORM_TITLE","Form Title");
+define("_AM_FORM_PERM","Groups allowed to use this form");
+define("_AM_FORM_SENDTO","Send to");
+define("_AM_FORM_SENDTO_ADMIN","Site Admin email");
+define("_AM_FORM_SEND_METHOD","Send method");
+define("_AM_FORM_SEND_METHOD_DESC","Information cannot be sent via private message when the form is sent to "._AM_FORM_SENDTO_ADMIN." or sent by anonymous users");
+define("_AM_FORM_SEND_METHOD_MAIL","Email");
+define("_AM_FORM_SEND_METHOD_PM","Private message");
+define("_AM_FORM_DELIMETER","Delimeter for check boxes and radio buttons");
+define("_AM_FORM_DELIMETER_SPACE","White space");
+define("_AM_FORM_DELIMETER_BR","Line break");
+define("_AM_FORM_SUBMIT_TEXT","Text for submit button");
+define("_AM_FORM_DESC","Form description");
+define("_AM_FORM_DESC_DESC","Text to be displayed in the main page if more then one form is listed");
+define("_AM_FORM_INTRO","Form introduction");
+define("_AM_FORM_INTRO_DESC","Text to be displayed in form page itself");
+define("_AM_FORM_WHERETO","URL to go after the form is submitted");
+define("_AM_FORM_WHERETO_DESC","Leave blank for the home page of this site; {SITE_URL} will print ".XOOPS_URL);
 
-define("_AM_FORM_ACTION_EDITFORM", "Edit form settings");
-define("_AM_FORM_ACTION_EDITELEMENT", "Edit form elements");
-define("_AM_FORM_ACTION_CLONE", "Clone this form");
+define("_AM_FORM_ACTION_EDITFORM","Edit form settings");
+define("_AM_FORM_ACTION_EDITELEMENT","Edit form elements");
+define("_AM_FORM_ACTION_CLONE","Clone this form");
 
-define("_AM_FORM_NEW", "Create a new form");
-define("_AM_FORM_EDIT", "Edit form: %s");
-define("_AM_FORM_CONFIRM_DELETE", "Are you sure you want to delete this form and all its form elements?");
+define("_AM_FORM_NEW","Create a new form");
+define("_AM_FORM_EDIT","Edit form: %s");
+define("_AM_FORM_CONFIRM_DELETE","Are you sure you want to delete this form and all its form elements?");
 
-define("_AM_ID", "ID");
-define("_AM_ACTION", "Action");
-define("_AM_RESET_ORDER", "Update Order");
-define("_AM_SAVE_THEN_ELEMENTS", "Save then edit elements");
-define("_AM_SAVE_THEN_FORM", "Save then edit form settings");
-define("_AM_NOTHING_SELECTED", "Nothing selected.");
-define("_AM_GO_CREATE_FORM", "You have to create a form first.");
+define("_AM_ID","ID");
+define("_AM_ACTION","Action");
+define("_AM_RESET_ORDER","Update Order");
+define("_AM_SAVE_THEN_ELEMENTS","Save then edit elements");
+define("_AM_SAVE_THEN_FORM","Save then edit form settings");
+define("_AM_NOTHING_SELECTED","Nothing selected.");
+define("_AM_GO_CREATE_FORM","You have to create a form first.");
 
-define("_AM_ELEMENTS_OF_FORM", "Form elements of %s");
-define("_AM_ELE_APPLY_TO_FORM", "Apply to form");
-define("_AM_ELE_HTML", "Plain text / HTML");
+define("_AM_ELEMENTS_OF_FORM","Form elements of %s");
+define("_AM_ELE_APPLY_TO_FORM","Apply to form");
+define("_AM_ELE_HTML","Plain text / HTML");
 
 ######### version 1.23 additions #########
-define("_AM_XOOPS_VERSION_WRONG", "Version of XOOPS does not meet the system requirement. Prizes may not work properly.");
+define("_AM_XOOPS_VERSION_WRONG","Version of XOOPS does not meet the system requirement. Prizes may not work properly.");
 define("_AM_ELE_UPLOADFILE","File upload");
 define("_AM_ELE_UPLOADIMG","Image upload");
 define("_AM_ELE_UPLOADIMG_MAXWIDTH","Maximum width (pixels)");
